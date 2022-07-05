@@ -3,6 +3,7 @@ import java.util.Collection;
 import java.util.List;
 public class Film {
 
+
     private List <Movie> movies = new ArrayList<>();
 
     public List<Movie> getMovies() {
@@ -12,6 +13,7 @@ public class Film {
     public void setMovies(List<Movie> movies) {
         this.movies = movies;
     }
+
 
 
 }

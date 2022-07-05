@@ -24,6 +24,8 @@ public class Main {
         movies.sort(cmp);
         movies.sort(cmp.reversed());
     }
+
+
 }
 
 
